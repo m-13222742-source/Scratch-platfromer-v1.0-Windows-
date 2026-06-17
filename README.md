@@ -9,6 +9,7 @@ How to use:
 i)For Zip file:
 
 a1).Download The Zip File or tar.gz file or setup.exe                                                                                                
+
 a2).Extract the Zip file
 
 a3).Open the .exe file to run the game
