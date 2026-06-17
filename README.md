@@ -4,10 +4,23 @@ Minimum supported version of Windows, Windows Xp Professional 64bit
 
 How to use:
 
-1.Download The Zip File                                                                                                 
+1.Go to releases
 
-2.Extract the Zip file
+i)For Zip file:
 
-3.Open the .exe file to run the game
+a1).Download The Zip File or tar.gz file or setup.exe                                                                                                
+a2).Extract the Zip file
 
-Supported processors: 64bit ONLY
+a3).Open the .exe file to run the game
+
+a4)Play it!
+
+a5)Supported processors: 64bit ONLY
+
+ii)for setup.exe:
+
+b1)Run the .exe file
+
+b2)follow the instructions on the setup
+
+b3)Close the setup and play it!
